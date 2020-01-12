@@ -20,8 +20,7 @@ def monopoly_with_third_tier
        :one=> 4,
        :two=> 4,
        :three=> 4,
-       :four=> 4
-     }
+       :four=> 4}
      }
  }
 end
