@@ -25,7 +25,7 @@ def monopoly_with_third_tier
        :two=> 4,
        :three=> 4,
        :four=> 4},
-      :one_piece_owned=> 25
+      :one_piece_owned=> 25,
      }
  }
 end
