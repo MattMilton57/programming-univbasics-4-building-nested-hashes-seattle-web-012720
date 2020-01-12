@@ -22,9 +22,9 @@ def monopoly_with_third_tier
        :four_pieces_owned=> 200},
      :names=> {
        :reading_railroad=> {},
-       :two=> 4,
-       :three=> 4,
-       :four=> 4},
+       :pennsylvania_railroad=> {},
+       :three=> {},
+       :four=> {}},
       
      }
  }
